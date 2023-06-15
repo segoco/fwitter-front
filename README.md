@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Fwitter Frontend
 
 this is a project we created to practice React, the idea is to make a Fwitter style application.
 
